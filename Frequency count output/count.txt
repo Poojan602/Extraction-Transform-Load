@@ -1,0 +1,15 @@
+Words Frequency 
+
+ education : 1420 
+ Canada : 213 
+ University : 1743 
+ Dalhousie : 3 
+ Expensive : 3 
+ Good School : 0 
+ Bad School : 0 
+ Faculty : 21 
+ Computer Science : 13 
+ Graduate : 72 
+
+
+ Here all counted words are not case sensitive
